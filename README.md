@@ -7,7 +7,8 @@ Ce repository contient mes réponses aux problématiques posées par le [concour
 - [Architecture](#architecture)
 - [Choix Techniques](#choix-techniques)
 - [Installation](#installation)
-- [License](#license)
+- [License](#licence)
+- [Problèmes](#problèmes)
 - [Auteurs](#auteurs)
 
 ---
@@ -31,8 +32,6 @@ Le projet est structuré en deux dossiers principaux :
 Ce dossier contiendra les codes sources des solutions. Il sera organisé en deux sous-dossiers :
     - ``rust`` : Contenant l'environnement complet pour les solutions écrites en Rust.
     - ``python`` : Contenant l'environnement complet pour les solutions écrites en Python. Chaque exercice sera implémenté dans un fichier distinct.
-2. ``tests``
-Ce dossier regroupera les tests unitaires, en particulier ceux écrits en Python pour vérifier la validité des solutions.
 
 J'espère que cette organisation vous conviendra et sera la plus claire et lisible.
 
@@ -83,6 +82,12 @@ Cela exécutera les solutions contenues dans le fichier ``main.rs``.
 
 ## Licence
 Ce dépôt est publié sous la licence MIT. Pour plus d'informations, consultez le fichier ``LICENSE.md``.
+
+---
+
+## Problèmes
+
+Je n'ai pas réussi à répondre à l'exercice 3. Je n'ai donc pas pu l'adapter en Rust. Étant donné que j'apprends Rust depuis 4 mois, je n'ai pas encore la maitrise des bibliothèques et n'ai donc pas eu un résultat satisfaisant.
 
 ---
 
